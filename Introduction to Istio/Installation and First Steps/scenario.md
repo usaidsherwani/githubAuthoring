@@ -1,4 +1,4 @@
-
+title: istiouk7
 description: asdasdasdasdasdasdasd
 time: 5 minutes
 state: draft
@@ -15,4 +15,6 @@ license: Apache
 isNew: true
 isPremium: true
 points: 15
+isAvailable: true
+level: beginner
 thumbnail: https://brainarator.s3.amazonaws.com/Docker.svg
