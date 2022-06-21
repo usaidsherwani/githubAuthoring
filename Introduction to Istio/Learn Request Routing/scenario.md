@@ -15,7 +15,6 @@ steps:
 license: ""
 isPremium: true
 isNew: false
-isAvailable: true
 authors: []
 isDraft: false
 state: approved
