@@ -1,4 +1,4 @@
-title: istiouk3
+title: istiouk4
 description: asdasdasdasdasdasdasd
 time: 5 minutes
 state: draft
@@ -14,6 +14,5 @@ isDraft: true
 license: Apache
 isNew: true
 isPremium: true
-isAvailable: true
 points: 15
 thumbnail: https://brainarator.s3.amazonaws.com/Docker.svg
